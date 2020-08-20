@@ -1,0 +1,63 @@
+{
+
+    "buttons": [
+
+        [{
+
+                "action": {
+
+                    "type": "text",
+
+                    "label": "в 2011 году"
+
+                },
+
+                "color": "primary"
+
+            }
+         ],
+        [{
+
+                "action": {
+
+                    "type": "text",
+
+                    "label": "в 2012 году"
+
+                },
+
+                "color": "primary"
+
+            }
+         ],
+        [{
+
+                "action": {
+
+                    "type": "text",
+
+                    "label": "в 2013 году"
+
+                },
+
+                "color": "primary"
+
+            }
+         ],
+        [{
+
+                "action": {
+
+                    "type": "text",
+
+                    "label": "в 2014 году"
+
+                },
+
+                "color": "primary"
+
+            }
+         ]
+    ]
+
+}

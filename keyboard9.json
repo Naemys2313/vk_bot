@@ -1,0 +1,63 @@
+{
+
+    "buttons": [
+
+        [{
+
+                "action": {
+
+                    "type": "text",
+
+                    "label": "Михаил Шолохов"
+
+                },
+
+                "color": "primary"
+
+            }
+         ],
+        [{
+
+                "action": {
+
+                    "type": "text",
+
+                    "label": "Борис Васильев"
+
+                },
+
+                "color": "primary"
+
+            }
+         ],
+        [{
+
+                "action": {
+
+                    "type": "text",
+
+                    "label": "Анатолий Кузнецов"
+
+                },
+
+                "color": "primary"
+
+            }
+         ],
+        [{
+
+                "action": {
+
+                    "type": "text",
+
+                    "label": "Василий Быков"
+
+                },
+
+                "color": "primary"
+
+            }
+         ]
+    ]
+
+}

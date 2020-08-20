@@ -1,0 +1,63 @@
+{
+
+    "buttons": [
+
+        [{
+
+                "action": {
+
+                    "type": "text",
+
+                    "label": "Советская война"
+
+                },
+
+                "color": "primary"
+
+            }
+         ],
+        [{
+
+                "action": {
+
+                    "type": "text",
+
+                    "label": "Священная война"
+
+                },
+
+                "color": "primary"
+
+            }
+         ],
+        [{
+
+                "action": {
+
+                    "type": "text",
+
+                    "label": "Священная война"
+
+                },
+
+                "color": "primary"
+
+            }
+         ],
+        [{
+
+                "action": {
+
+                    "type": "text",
+
+                    "label": "Советский народ"
+
+                },
+
+                "color": "primary"
+
+            }
+         ]
+    ]
+
+}

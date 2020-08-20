@@ -1,0 +1,35 @@
+{
+
+    "buttons": [
+
+        [{
+
+                "action": {
+
+                    "type": "text",
+
+                    "label": "Цитата 1"
+
+                },
+
+                "color": "primary"
+
+            }
+         ],
+        [{
+
+                "action": {
+
+                    "type": "text",
+
+                    "label": "Цитата 2"
+
+                },
+
+                "color": "primary"
+
+            }
+         ]
+    ]
+
+}

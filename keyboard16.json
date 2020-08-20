@@ -1,0 +1,63 @@
+{
+
+    "buttons": [
+
+        [{
+
+                "action": {
+
+                    "type": "text",
+
+                    "label": "мужества и чести"
+
+                },
+
+                "color": "primary"
+
+            }
+         ],
+        [{
+
+                "action": {
+
+                    "type": "text",
+
+                    "label": "пролитой крови за годы войны"
+
+                },
+
+                "color": "primary"
+
+            }
+         ],
+        [{
+
+                "action": {
+
+                    "type": "text",
+
+                    "label": "победы"
+
+                },
+
+                "color": "primary"
+
+            }
+         ],
+        [{
+
+                "action": {
+
+                    "type": "text",
+
+                    "label": "социализма"
+
+                },
+
+                "color": "primary"
+
+            }
+         ]
+    ]
+
+}

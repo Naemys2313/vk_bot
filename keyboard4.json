@@ -1,0 +1,22 @@
+{
+
+    "buttons": [
+
+        [{
+
+                "action": {
+
+                    "type": "text",
+
+                    "label": "Завершить КВИЗ"
+
+                },
+
+                "color": "primary"
+
+            }
+         ]
+    ]
+
+}
+

@@ -1,0 +1,21 @@
+{
+
+    "buttons": [
+
+        [{
+
+                "action": {
+
+                    "type": "text",
+
+                    "label": "Регистрация"
+
+                },
+
+                "color": "primary"
+
+            }
+        ]
+    ]
+
+}

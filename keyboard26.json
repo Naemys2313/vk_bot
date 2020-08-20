@@ -1,0 +1,35 @@
+{
+
+    "buttons": [
+
+        [{
+
+                "action": {
+
+                    "type": "text",
+
+                    "label": "Правда"
+
+                },
+
+                "color": "primary"
+
+            }
+         ],
+        [{
+
+                "action": {
+
+                    "type": "text",
+
+                    "label": "Ложь"
+
+                },
+
+                "color": "primary"
+
+            }
+         ]
+    ]
+
+}

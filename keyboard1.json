@@ -1,0 +1,66 @@
+{
+
+    "buttons": [
+
+        [{
+
+                "action": {
+
+                    "type": "text",
+
+                    "label": "Начать"
+
+                },
+
+                "color": "primary"
+
+            }
+            ],
+            [
+            {
+
+                "action": {
+
+                    "type": "text",
+
+                    "label": "Знакомство с положением проекта"
+
+                },
+
+                "color": "primary"
+
+            }
+            ],
+                    [{
+
+                "action": {
+
+                    "type": "text",
+
+                    "label": "Контакты"
+
+                },
+
+                "color": "primary"
+
+            }
+            ],
+        [{
+
+                "action": {
+
+                    "type": "text",
+
+                    "label": "Призовой фонд"
+
+                },
+
+                "color": "primary"
+
+            }
+
+        ]
+
+    ]
+
+}

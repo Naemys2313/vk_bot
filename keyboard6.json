@@ -1,0 +1,35 @@
+{
+
+    "buttons": [
+
+        [{
+
+                "action": {
+
+                    "type": "text",
+
+                    "label": "3 км"
+
+                },
+
+                "color": "primary"
+
+            }
+         ],
+        [{
+
+                "action": {
+
+                    "type": "text",
+
+                    "label": "5 км"
+
+                },
+
+                "color": "primary"
+
+            }
+         ]
+    ]
+
+}

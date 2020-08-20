@@ -1,0 +1,35 @@
+{
+
+    "buttons": [
+
+        [{
+
+                "action": {
+
+                    "type": "text",
+
+                    "label": "Больше"
+
+                },
+
+                "color": "primary"
+
+            }
+         ],
+        [{
+
+                "action": {
+
+                    "type": "text",
+
+                    "label": "Меньше"
+
+                },
+
+                "color": "primary"
+
+            }
+         ]
+    ]
+
+}
