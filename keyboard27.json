@@ -1,0 +1,37 @@
+{
+
+    "buttons": [
+
+        [{
+
+                "action": {
+
+                    "type": "text",
+
+                    "label": "Мне есть 18 лет"
+
+                },
+
+                "color": "primary"
+
+            }
+            ],
+            [
+            {
+
+                "action": {
+
+                    "type": "text",
+
+                    "label": "Мне нет 18 лет"
+
+                },
+
+                "color": "primary"
+
+            }
+            ]
+
+    ]
+
+}
